@@ -1,0 +1,1 @@
+A customizable lightbox plugin for jQuery. See the project page for documentation and a demonstration, and the FAQ for solutions and examples to common issues
