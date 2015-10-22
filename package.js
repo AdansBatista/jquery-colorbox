@@ -12,5 +12,5 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.2.0.2');
-  api.addFiles(['lib/jquery.colorbox.js', 'colorbox.css'], 'client');
+  api.addFiles(['lib/jquery.colorbox.js', 'lib/colorbox.css'], 'client');
 });
